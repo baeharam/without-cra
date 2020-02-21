@@ -1,0 +1,7 @@
+.container {
+  width: 500px;
+  height: 300px;
+  background: url("image.jfif") center no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+}
